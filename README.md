@@ -6,8 +6,8 @@
 
 First we need to install the required packages. From command line run
 
-```python pip install spacypdfreader[pytesseract]
-```
+python pip install spacypdfreader[pytesseract]
+
 
 I got some warnings about dependency conflicts, even though it worked ok. This package was written some years ago and requires a version of Spacy 3.4.0 but I’m currently using Spacy 3.6.1
 
