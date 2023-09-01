@@ -1,6 +1,6 @@
 # PDFdocumentsWithSpacy
 
-#This is a 
+#This is an amazing package created by Sam Edwardes to access to a PDF document using Spacy. 
 
 ## How to install the Spacy PDF reader
 
